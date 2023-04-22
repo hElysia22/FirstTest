@@ -1,1 +1,1 @@
-观察提交者名称是否跟userEmail有关
+观察提交者名称是否跟userEmail有关，确实和email有关，当改成github注册的邮箱时，名称会变成github上的username
